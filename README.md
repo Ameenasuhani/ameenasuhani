@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![HitCount](http://hits.dwyl.com/ameenasuhani/ameenasuhani.svg)](http://hits.dwyl.com/ameenasuhani/ameenasuhani) 
 
 [![LinkedIn](https://github.com/Ameenasuhani/ameenasuhani/blob/master/Linkedin%20(2).jpg)](https://www.linkedin.com/in/ameena-suhani-80045213a/)
