@@ -4,6 +4,10 @@
 [![Gmail](https://github.com/Ameenasuhani/ameenasuhani/blob/master/gmail%20(1).jpg)](ameenasuhani@gmail.com)
 [![LinkedIn](https://github.com/Ameenasuhani/ameenasuhani/blob/master/Linkedin%20(2).jpg)](https://www.linkedin.com/in/ameena-suhani-80045213a/)
 [![Twitter](https://github.com/Ameenasuhani/ameenasuhani/blob/master/twitter%20(2).jpg)](https://twitter.com/ameena_suhani)
+
+
+
+![GitHub statistic](https://github-readme-stats.vercel.app/api?username=ameenasuhani&show_icons=true)
 <!--
 **Ameenasuhani/ameenasuhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
