@@ -1,7 +1,7 @@
 
 [![HitCount](http://hits.dwyl.com/ameenasuhani/ameenasuhani.svg)](http://hits.dwyl.com/ameenasuhani/ameenasuhani) 
 
-[![Gmail](https://github.com/Ameenasuhani/ameenasuhani/blob/master/gmail.jpg](ameenasuhani@gmail.com)
+[![Gmail](https://github.com/Ameenasuhani/ameenasuhani/blob/master/gmail.jpg)](ameenasuhani@gmail.com)
 [![Gmail](https://github.com/Ameenasuhani/ameenasuhani/blob/master/gmail%20(1).jpg)](ameenasuhani@gmail.com)
 [![Gmail](https://github.com/Ameenasuhani/ameenasuhani/blob/master/gmail%20(2).jpg)](ameenasuhani@gmail.com)
 [![LinkedIn](https://github.com/Ameenasuhani/ameenasuhani/blob/master/Linkedin%20(2).jpg)](https://www.linkedin.com/in/ameena-suhani-80045213a/)
