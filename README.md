@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/ameenasuhani/ameenasuhani.svg)](http://hits.dwyl.com/ameenasuhani/ameenasuhani)
+[![HitCount](http://hits.dwyl.com/ameenasuhani/ameenasuhani.svg)](http://hits.dwyl.com/ameenasuhani/ameenasuhani)[![LinkedIn](https://raw.githubusercontent.com/ameenasuhani/ameenasuhani/master/soc/li.svg)](https://www.linkedin.com/in/ameena-suhani-80045213a/)
 <!--
 **Ameenasuhani/ameenasuhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
